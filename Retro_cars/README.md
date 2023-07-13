@@ -8,4 +8,4 @@ The goal was to analyze the data and develop a car classification model that wil
 
 Run [Data Cleaning](retro_cars_cleaning.ipynb) file first, <br>
 then run [Data Analysis](retro_cars_analysis.ipynb) file, <br>
-and then run [Classification models](retro_cars_modeling.ipynb) file
+and then run [Classification models](retro_cars_modeling.ipynb) file.
